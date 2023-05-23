@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.bg-custom{
+    background-color: rgb(130, 178, 178);
+}
+.btn-custom{
+    margin-bottom: 1.4rem;
+}
+
+.completed{
+    color: green;
+}
+
